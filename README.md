@@ -5,9 +5,9 @@
 ## 使用方法
 
 1. [下载本项目](https://github.com/overtrue/sketch-data-cn/archive/master.zip) 到你的电脑，放到一个不易删除的地方（因为 Sketch 的 Data 是直接使用这个文件而不是复制）；
-1. 打开 Sketch 的设置页（<kbd>⌘ Command</kbd>+<kbd>,</kbd>），选择 Data 选项卡；
-2. 点击下面的 "Add Data"，选择下载的本项目文件夹中的 data 目录中的文件（不要选择目录，要选择具体 `.txt` 文件）；
-3. 确认打开即可。
+1. 打开 Sketch 的设置页（<kbd>⌘ Command</kbd>+<kbd>,</kbd>），选择 **Data** 选项卡；
+1. 点击下面的 "**Add Data**"，选择下载的本项目文件夹中的 `data` 目录中的文件（不要选择目录，要选择具体 `.txt` 文件）；
+1. 确认导入后即可食用。
 
 ## 鸣谢
 
